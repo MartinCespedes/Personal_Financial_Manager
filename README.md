@@ -72,4 +72,4 @@ npm start
 
 ## Credits
 
-- Personal Financial Manager was developed by Martin Cespedes. 
+- Author - Martin Cespedes
