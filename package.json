@@ -1,0 +1,20 @@
+{
+  "name": "personal_financial_manager",
+  "version": "1.0.0",
+  "description": "- Personal Financial Manager is an easy-to-use, comprehensive, and customizable tool designed to help individuals manage their personal finances. It provides a detailed overview of income, expenses, investments, and savings, giving users the necessary insights to make informed financial decisions and achieve their financial goals.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinCespedes/Personal_Financial_Manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MartinCespedes/Personal_Financial_Manager/issues"
+  },
+  "homepage": "https://github.com/MartinCespedes/Personal_Financial_Manager#readme"
+}
