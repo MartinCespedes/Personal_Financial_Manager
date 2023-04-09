@@ -68,8 +68,8 @@ npm start
 
 ## License
 
-- Personal Financial Manager is released under the MIT License.
+- MIT License.
 
 ## Credits
 
-- Personal Financial Manager was developed by Martin Cespedes. 
+- Author - Martin Cespedes
