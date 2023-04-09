@@ -68,7 +68,7 @@ npm start
 
 ## License
 
-- Personal Financial Manager is released under the MIT License.
+- MIT License.
 
 ## Credits
 
