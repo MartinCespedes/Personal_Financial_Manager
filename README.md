@@ -3,6 +3,7 @@
 - Personal Financial Manager is an easy-to-use, comprehensive, and customizable tool designed to help individuals manage their personal finances. It provides a detailed overview of income, expenses, investments, and savings, giving users the necessary insights to make informed financial decisions and achieve their financial goals.
 
 ## Table of Contents
+
 - Features
 - Installation
 - Usage
@@ -10,10 +11,10 @@
 - API Documentation
 - Contributing
 - License
-- Support
 - Credits
 
- ## Features
+## Features
+
 - Budget Management
 - Expense Tracking
 - Income Tracking
@@ -31,11 +32,13 @@
 - Git clone repo
 
 - Install dependencies:
+
 ```
 npm install
 ```
 
 - Run the application:
+
 ```
 npm start
 ```
@@ -61,10 +64,6 @@ npm start
 ## API Documentation
 
 - The API documentation for Personal Financial Manager is available here.
-
-## Contributing
-
-- Contributions are welcome! Please read our contributing guidelines for information on how to contribute to the project.
 
 ## License
 
